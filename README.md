@@ -1,2 +1,3 @@
 # OCR_Project
-To be updated
+
+Character detection and character recognition using YoLO v4 and RARE
